@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Nanum+Gothic:wght@400;700&family=Public+Sans:wght@200;400&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Public Sans', sans-serif;
+}
+
+body {
+  background-color: #212121;
+}
+
+img#logo {
+    display: block;
+    width: 128px;
+    margin: 0 auto;
+    margin-top: 10%;
+
+}
+
+h1 {
+    font-family: 'Nanum Gothic', sans-serif;
+    font-size: 2.5rem;
+    color: #e3e3e3;
+    text-align: center;
+    margin-top: 1%;
+}
+
+.reddot {
+  font-family: 'Nanum Gothic', sans-serif;
+    color: #aa0000;
+}
