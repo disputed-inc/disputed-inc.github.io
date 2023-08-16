@@ -5,6 +5,7 @@
   padding: 0;
   box-sizing: border-box;
   font-family: 'Public Sans', sans-serif;
+  font-display: swap;
 }
 
 body {
@@ -12,22 +13,23 @@ body {
 }
 
 img#logo {
-    display: block;
-    width: 128px;
-    margin: 0 auto;
-    margin-top: 10%;
-
+  display: block;
+  width: 128px;
+  margin: 0 auto;
+  margin-top: 10%;
 }
 
 h1 {
-    font-family: 'Nanum Gothic', sans-serif;
-    font-size: 2.5rem;
-    color: #e3e3e3;
-    text-align: center;
-    margin-top: 1%;
+  font-family: 'Nanum Gothic', sans-serif;
+  font-display: block;
+  font-size: 2.5rem;
+  color: #e3e3e3;
+  text-align: center;
+  margin-top: 1%;
 }
 
 .reddot {
   font-family: 'Nanum Gothic', sans-serif;
-    color: #aa0000;
+  font-display: block;
+  color: #aa0000;
 }
