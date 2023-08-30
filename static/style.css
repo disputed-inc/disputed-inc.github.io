@@ -6,22 +6,23 @@
 }
 
 body {
-  background-color: #212121;
+  background-color: #dedede;
 }
 
 img#logo {
   display: block;
   width: 128px;
   margin: 0 auto;
-  margin-top: 10%;
+  margin-top: 5%;
 }
 
 h1 {
   font-family: 'Nanum Gothic', sans-serif;
   font-size: 2.5rem;
-  color: #e3e3e3;
+  color: #343434;
   text-align: center;
   margin-top: 1%;
+  margin-bottom:3rem;
 }
 
 .reddot {
@@ -32,4 +33,14 @@ h1 {
 @font-face {
   font-family: f;
   src: url();
+}
+
+div.hbspt-form {
+  width: 360px;
+  min-height:180px;
+  margin:auto;
+}
+
+iframe.hs-form-iframe {
+  min-height:180px;
 }
