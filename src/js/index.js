@@ -19,6 +19,7 @@ window.Alpine = Alpine;
 Alpine.start();
 
 // Testimonial
+/*
 const testimonial01 = new Swiper(".testimonial-01", {
   // configure Swiper to use modules
   modules: [Pagination, Autoplay],
@@ -42,6 +43,7 @@ const testimonial01 = new Swiper(".testimonial-01", {
     },
   },
 });
+*/
 
 /*========== SCROLL REVEAL ANIMATION ==========*/
 window.sr = ScrollReveal({
