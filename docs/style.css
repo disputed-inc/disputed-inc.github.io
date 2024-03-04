@@ -1809,8 +1809,8 @@ body{
 }.dark .dark\:text-black{
   --tw-text-opacity: 1;
   color: rgb(23 28 48 / var(--tw-text-opacity));
-}.dark .dark\:opacity-95{
-  opacity: 0.95;
+}.dark .dark\:opacity-30{
+  opacity: 0.3;
 }.dark .dark\:opacity-50{
   opacity: 0.5;
 }.dark .dark\:shadow-none{
