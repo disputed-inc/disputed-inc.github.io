@@ -887,9 +887,6 @@ body{
 .h-\[23px\]{
   height: 23px;
 }
-.h-\[600px\]{
-  height: 600px;
-}
 .h-5{
   height: 1.25rem;
 }
@@ -913,6 +910,9 @@ body{
 }
 .max-h-\[400px\]{
   max-height: 400px;
+}
+.min-h-\[600px\]{
+  min-height: 600px;
 }
 .w-7\.5{
   width: 1.875rem;

@@ -34,8 +34,8 @@
 
     <!-- ===== Header Start ===== -->
     <header
-  class="fixed left-0 top-0 w-full z-99999 py-7"
-  :class="{ 'bg-white dark:bg-black shadow !py-4 transition duration-100' : stickyMenu }"
+  class="fixed left-0 top-0 w-full z-99999 py-7 dark:bg-black dark:text-white"
+  :class="{ 'bg-white shadow !py-4 transition duration-100' : stickyMenu }"
   @scroll.window="stickyMenu = (window.pageYOffset > 20) ? true : false"
 >
   <div
